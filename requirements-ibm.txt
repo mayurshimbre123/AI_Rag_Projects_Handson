@@ -1,0 +1,5 @@
+# IBM Skills Network course pins; prefer what your current lab already installed.
+gradio==4.44.0
+ibm-watsonx-ai==1.1.2
+langchain-ibm==0.1.11
+# For course-provided requirements, retain the other dependencies already installed.
